@@ -3200,6 +3200,7 @@ diisel	dii-sel	0.60
 diisli	diis-li	0.13
 diislikütuse	diis-li_kü-tu-se	2.40
 diivan	dii-van	2.27
+		
 diivanil	dii-va-nil	9.87
 diivanilauale	dii-va-ni_lau-a-le	0.60
 diivanile	dii-va-ni-le	7.07
@@ -9719,6 +9720,7 @@ juhivad	ju-hi-vad	9.93
 juhm	juhm	1.67
 juhmid	juh-mid	0.60
 juht	juht	0.13
+		
 juhti	juh-ti	7.00
 juhtida	juh-ti-da	30.40
 juhtidega	juh-ti-de-ga	2.87
@@ -10987,6 +10989,7 @@ kaltsuks	kalt-suks	0.27
 kaltsukubu	kalt-su_ku-bu	0.07
 kalu	ka-lu	3.33
 kalur	ka-lur	1.00
+		
 kaluritega	ka-lu-ri-te-ga	0.20
 kaluritel	ka-lu-ri-tel	0.20
 kaluritele	ka-lu-ri-te-le	0.80
@@ -12151,6 +12154,7 @@ kauri	kau-ri	0.13
 kausi	kau-si	3.07
 kausist	kau-sist	0.67
 kausitäis	kau-si_täis	0.27
+		
 kauss	kauss	2.00
 kaussi	kaus-si	0.93
 kausta	kaus-ta	0.27
@@ -48825,3 +48829,4 @@ zum	zum	7.60
 žüriid	žü-riid	0.20
 žüriil	žü-riil	0.20
 žüriist	žü-riist	0.20
+TRUE	TRUE	0.60
