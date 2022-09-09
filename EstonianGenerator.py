@@ -16,7 +16,8 @@ g = WuggyGenerator()
 g.load("orthographic_estonian", OfficialLanguagePlugin())
 
 lines = []
-with open('est_List.txt', "r") as text_file:
+with open('est_wordlist.txt', "r") as text_file:
+# with open('est_List.txt', "r") as text_file:
     lines = text_file.readlines()
     for i,s in enumerate(lines):
         lines[i] = s.strip()
