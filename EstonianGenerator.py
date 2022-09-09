@@ -15,7 +15,14 @@ from orthographic_estonian.orthographic_estonian import OfficialLanguagePlugin
 g = WuggyGenerator()
 g.load("orthographic_estonian", OfficialLanguagePlugin())
 
-pseudoword_matches = g.generate_classic(["jõgi"])
+lines = []
+with open('est_List.txt', "r") as text_file:
+    lines = text_file.readlines()
+    for i,s in enumerate(lines):
+        lines[i] = s.strip()
+
+# pseudoword_matches = g.generate_classic(["jõgi","aare"])
+pseudoword_matches = g.generate_classic(lines)
 g.export_classic_pseudoword_matches_to_csv(pseudoword_matches, "./pseudowords.csv")
 # for w in g.generate_classic(["jõgi"]):
 #     print(w["pseudoword"])
