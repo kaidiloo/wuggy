@@ -16,7 +16,7 @@ g = WuggyGenerator()
 g.load("orthographic_estonian", OfficialLanguagePlugin())
 
 lines = []
-with open('LexEst_stiimulid.tsv', "r") as text_file:
+with open('EALD_Wordlist_words_cleaned_20220916.csv', "r") as text_file:
 # with open('est_List.txt', "r") as text_file:
     lines = text_file.readlines()
     for i,s in enumerate(lines):

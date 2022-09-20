@@ -936,7 +936,7 @@ alalõpmata	a-la_lõp-ma-ta	3.87
 alalt	a-lalt	0.47
 alama	a-la-ma	0.4
 alamatele	a-la-ma-te-le	0.27
-alamdialoog	a-lam_dia-loog	0
+alamdialoog	a-lam_dia-loog	NA
 alammõiste	a-lam_mõis-te	0.07
 alammuutkondade	a-lam_muut-kon-da-de	0.67
 alamõõduline	a-la_mõõ-du-li-ne	0.13
@@ -1170,9 +1170,9 @@ allkirjaga	all_kir-ja-ga	5.73
 allkirjastab	all_kir-jas-tab	0.53
 allkirjastatud	all_kir-jas-ta-tud	0.93
 allo	al-lo	0.07
-allofoone	al-lo-foo-ne	0
+allofoone	al-lo-foo-ne	NA
 allofoonid	al-lo-foo-nid	0.2
-allofoonide	al-lo-foo-ni-de	0
+allofoonide	al-lo-foo-ni-de	NA
 allomorfi	al-lo-mor-fi	0.07
 allperioodil	all_pe-ri-oo-dil	0.2
 allpool	all_pool	17.67
@@ -2407,7 +2407,7 @@ assimileerida	as-si-mi-lee-ri-da	0.2
 ässitada	äs-si-ta-da	0.4
 ässitasin	äs-si-ta-sin	0.2
 ässitati	äs-si-ta-ti	0.07
-assoo	as-soo	0
+assoo	as-soo	NA
 assortii	as-sor-tii	0.07
 assotsiatsioonid	as-sot-si-at-si-oo-nid	1.27
 assotsieerunud	as-sot-si-ee-ru-nud	0.13
@@ -2985,7 +2985,7 @@ baasis	baa-sis	2.4
 baasist	baa-sist	1
 bad	bad	0.87
 bai	bai	0.07
-baka	ba-ka	0
+baka	ba-ka	NA
 bakaa	ba-kaa	0.07
 bakalaureus	ba-ka-lau-re-us	0.47
 bakalaureusekraadiga	ba-ka-lau-re-u-se_kraa-di-ga	0.4
@@ -3273,7 +3273,7 @@ debüüdiks	de-büü-diks	0.13
 debüüt	de-büüt	1.33
 debüütluulekogu	de-büüt_luu-le_ko-gu	0.07
 debüütvihik	de-büüt_vi-hik	0.07
-dee	dee	0
+dee	dee	NA
 deep	deep	0.47
 defileerisite	de-fi-lee-ri-si-te	0.07
 defineeri	de-fi-nee-ri	0.53
@@ -3468,7 +3468,7 @@ diplomitööd	dip-lo-mi_tööd	0.27
 diplomitööks	dip-lo-mi_tööks	0.47
 direktiiv	di-rek-tiiv	9.27
 direktiivi	di-rek-tii-vi	3.27
-direktiivsete	di-rek-tiiv-se-te	0
+direktiivsete	di-rek-tiiv-se-te	NA
 direktor	di-rek-tor	0.07
 direktoraat	di-rek-to-raat	0.2
 direktoraatide	di-rek-to-raa-ti-de	0.07
@@ -3604,8 +3604,8 @@ drink	drink	0.6
 drinking	drin-king	0.2
 droogi	droo-gi	0.07
 droogid	droo-gid	0.33
-droon	droon	0
-drooniga	droo-ni-ga	0
+droon	droon	NA
+drooniga	droo-ni-ga	NA
 druiidi	dru-ii-di	0.13
 dual	dual	0.07
 dualismi	dua-lis-mi	0.87
@@ -4048,7 +4048,7 @@ eestimaine	ees-ti_mai-ne	0.67
 eestimaiseid	ees-ti_mai-seid	0.07
 eestimaist	ees-ti_maist	1.4
 eestimeelne	ees-ti_meel-ne	0.53
-eestirootsis	ees-ti-root-sis	0
+eestirootsis	ees-ti-root-sis	NA
 eestis	ees-tis	0.07
 eestist	ees-tist	0.07
 eestistatud	ees-tis-ta-tud	0.07
@@ -4241,7 +4241,7 @@ eina	ei-na	0.13
 eine	ei-ne	2.53
 einestada	ei-nes-ta-da	0.47
 einestamine	ei-nes-ta-mi-ne	0.07
-eino	ei-no	0
+eino	ei-no	NA
 einoh	ei_noh	0.13
 einojah	ei-no-jah	0.07
 eirates	ei-ra-tes	3.07
@@ -4817,8 +4817,8 @@ emotsiooni	e-mot-si-oo-ni	1.8
 emotsioonid	e-mot-si-oo-nid	8.27
 emotsioonide	e-mot-si-oo-ni-de	5.8
 emotsioonideta	e-mot-si-oo-ni-de-ta	0.47
-emotsioonil	e-mot-si-oo-nil	0
-emotsiooniti	e-mot-si-oo-ni-ti	0
+emotsioonil	e-mot-si-oo-nil	NA
+emotsiooniti	e-mot-si-oo-ni-ti	NA
 emotsioonivabamalt	e-mot-si-oo-ni_va-ba-malt	0.07
 empaatiline	em-paa-ti-li-ne	0.53
 empaatilise	em-paa-ti-li-se	0.2
@@ -5375,7 +5375,7 @@ esilekerkimise	e-si-le_ker-ki-mi-se	0.6
 esiletoomisele	e-si-le_too-mi-se-le	0.2
 esiletoomist	e-si-le_too-mist	1.07
 esiletükkivaid	e-si-le_tük-ki-vaid	0.13
-esiliige	e-si_lii-ge	0
+esiliige	e-si_lii-ge	NA
 esilinastus	e-si_li-nas-tus	0.27
 esilinastusele	e-si_li-nas-tu-se-le	0.4
 esilinastust	e-si_li-nas-tust	0.6
@@ -5511,7 +5511,7 @@ esitlusel	e-sit-lu-sel	2.13
 esitus	e-si-tus	10.73
 esituse	e-si-tu-se	7.8
 esituses	e-si-tu-ses	8.2
-esituslik	e-si-tus-lik	0
+esituslik	e-si-tus-lik	NA
 esitust	e-si-tust	5.73
 esiujuja	e-si_u-ju-ja	0.13
 esivanemad	e-si_va-ne-mad	6.2
@@ -5599,7 +5599,7 @@ etendusest	e-ten-du-sest	3
 etendusi	e-ten-du-si	4.8
 etendust	e-ten-dust	17.8
 etenduste	e-ten-dus-te	3.73
-etet	e-tet	0
+etet	e-tet	NA
 etiketile	e-ti-ke-ti-le	0.13
 etioopia	e-ti-oo-pi-a	0.93
 etnilised	et-ni-li-sed	2.13
@@ -5731,7 +5731,7 @@ etv	etv	0.07
 eukalüpti	eu-ka-lüp-ti	0.13
 eukleidilise	euk-lei-di-li-se	0.2
 eum	eum	0.07
-euri	eu-ri	0
+euri	eu-ri	NA
 euro	eu-ro	10.4
 euroabiga	eu-ro_a-bi-ga	0.07
 euroametnike	eu-ro_a-met-ni-ke	0.33
@@ -6017,7 +6017,7 @@ fondide	fon-di-de	4.13
 fondile	fon-di-le	1.07
 fondis	fon-dis	1.73
 foneemile	fo-nee-mi-le	0.13
-foneetik	fo-nee-tik	0
+foneetik	fo-nee-tik	NA
 foneetika	fo-nee-ti-ka	1.2
 foneetikas	fo-nee-ti-kas	0.07
 foneetikat	fo-nee-ti-kat	0.2
@@ -6043,7 +6043,7 @@ formaalsus	for-maal-sus	0.6
 formaat	for-maat	2.53
 formaatimiskäskude	for-maa-ti-mis-käs-ku-de	0.07
 formandi	for-man-di	2.2
-formant	for-mant	0
+formant	for-mant	NA
 formantideks	for-man-ti-deks	0.07
 formuleerida	for-mu-lee-ri-da	2.73
 formuleerima	for-mu-lee-ri-ma	0.2
@@ -6360,7 +6360,7 @@ häälega	hää-le-ga	48.13
 häälekalt	hää-le-kalt	2
 häälekandja	hää-le_kand-ja	0.6
 häälekas	hää-le-kas	0.53
-häälekurrud	hää-le_kur-rud	0
+häälekurrud	hää-le_kur-rud	NA
 häälel	hää-lel	23.8
 häälele	hää-le-le	1.47
 hääleõigus	hää-le_õi-gus	0.67
@@ -7507,9 +7507,9 @@ hingamine	hin-ga-mi-ne	5.93
 hingamisaparaadi	hin-ga-mis_a-pa-raa-di	1.07
 hingamise	hin-ga-mi-se	7.07
 hingamisega	hin-ga-mi-se-ga	0.8
-hingamiseta	hin-ga-mi-se-ta	0
-hingamispause	hin-ga-mis_pau-se	0
-hingamispausid	hin-ga-mis_pau-sid	0
+hingamiseta	hin-ga-mi-se-ta	NA
+hingamispause	hin-ga-mis_pau-se	NA
+hingamispausid	hin-ga-mis_pau-sid	NA
 hingamisruumi	hin-ga-mis_ruu-mi	0.13
 hingamist	hin-ga-mist	7.4
 hingamisteede	hin-ga-mis_tee-de	10.87
@@ -8168,7 +8168,7 @@ hüpoteeke	hü-po-tee-ke	0.07
 hüpotees	hü-po-tees	0.27
 hüpoteesi	hü-po-tee-si	1.4
 hüpoteesist	hü-po-tee-sist	0.53
-hüpoteetilisuse	hü-po-tee-ti-li-su-se	0
+hüpoteetilisuse	hü-po-tee-ti-li-su-se	NA
 hüppa	hüp-pa	2.2
 hüppab	hüp-pab	7.73
 hüppad	hüp-pad	0.67
@@ -8347,7 +8347,7 @@ igakuise	i-ga_kui-se	1
 igakuiseks	i-ga_kui-seks	0.13
 igal	i-gal	279
 igale	i-ga-le	53.4
-igaljuhul	i-gal-ju-hul	0
+igaljuhul	i-gal-ju-hul	NA
 igalpool	i-gal-pool	0.73
 igalt	i-galt	11.67
 igalühel	i-ga-lü-hel	0.27
@@ -8503,7 +8503,7 @@ ike	i-ke	0.53
 ikk	ikk	0.07
 ikka	ik-ka	0.2
 ikkagi	ik-ka-gi	240.4
-ikkagist	ik-ka-gist	0
+ikkagist	ik-ka-gist	NA
 ikke	ik-ke	10.07
 ikkegi	ik-ke-gi	0.2
 ikki	ik-ki	0.8
@@ -8858,7 +8858,7 @@ inglike	ing-li-ke	0.33
 inglikest	ing-li-kest	0.07
 inglis	ing-lis	0.07
 inglise	ing-li-se	96.47
-ingliskeelega	ing-lis-kee-le-ga	0
+ingliskeelega	ing-lis-kee-le-ga	NA
 ingliskeeles	ing-lis-kee-les	0.2
 ingliskeelne	ing-lis_keel-ne	5
 ingliskeelse	ing-lis_keel-se	0.07
@@ -9439,9 +9439,9 @@ jaagu	jaa-gu	0.13
 jäägu	jää-gu	8.53
 jäägugi	jää-gu-gi	0.2
 jäähokit	jää_ho-kit	0.27
-jaajaa	jaa-jaa	0
-jaajaajaa	jaa-jaa-jaa	0
-jaajah	jaa-jah	0
+jaajaa	jaa-jaa	NA
+jaajaajaa	jaa-jaa-jaa	NA
+jaajah	jaa-jah	NA
 jaak	jaak	3.07
 jääke	jää-ke	1.6
 jääkide	jää-ki-de	0.53
@@ -9647,12 +9647,12 @@ jäise	jäi-se	1.6
 jäiseid	jäi-seid	0.2
 jäiselt	jäi-selt	0.53
 jäivad	jäi-vad	0.27
-jaja	ja-ja	0
+jaja	ja-ja	NA
 jajaa	ja-jaa	0.27
-jajaja	ja-ja-ja	0
-jajajah	ja-ja-jah	0
-jajajaja	ja-ja-ja-ja	0
-jajajajaja	ja-ja-ja-ja-ja	0
+jajaja	ja-ja-ja	NA
+jajajah	ja-ja-jah	NA
+jajajaja	ja-ja-ja-ja	NA
+jajajajaja	ja-ja-ja-ja-ja	NA
 jakarta	ja-kar-ta	0.2
 jakis	ja-kis	0.2
 jakkidega	jak-ki-de-ga	0.07
@@ -9905,7 +9905,7 @@ järelhooldusprogrammis	jä-rel_hool-dus_prog-ram-mis	0.07
 järelikult	jä-re-li-kult	65.73
 järellainetus	jä-rel_lai-ne-tus	0.67
 järellainetust	jä-rel_lai-ne-tust	0.07
-järelliikmed	jä-rel_liik-med	0
+järelliikmed	jä-rel_liik-med	NA
 järelmaksu	jä-rel_mak-su	0.13
 järelmaksuga	jä-rel_mak-su-ga	1.13
 järelromantiline	jä-rel_ro-man-ti-li-ne	0.07
@@ -11663,7 +11663,7 @@ kaksikutel	kak-si-ku-tel	0.33
 kaksinda	kak-sin-da	0.07
 kakskeelsusdiskussioonis	kaks_keel-sus_dis-kus-si-oo-nis	0.07
 kakskeelsuse	kaks_keel-su-se	0.2
-kakskolm	kaks-kolm	0
+kakskolm	kaks-kolm	NA
 kakskümmend	kaks_küm-mend	34.6
 kakskümmend	kaks-küm-mend	34.6
 kakssada	kaks_sa-da	6.73
@@ -12164,7 +12164,7 @@ käputäit	kä-pu_täit	0.2
 kapuuts	ka-puuts	0.53
 kapuutsi	ka-puut-si	0.07
 kära	kä-ra	2.53
-kärajad	kä-ra-jad	0
+kärajad	kä-ra-jad	NA
 karakter	ka-rak-ter	3.33
 karakterist	ka-rak-te-rist	0.53
 karakternäitleja	ka-rak-ter_näit-le-ja	0.07
@@ -12435,7 +12435,7 @@ kasemetsa	ka-se_met-sa	0.2
 kasesalu	ka-se_sa-lu	0.07
 kasesalust	ka-se_sa-lust	0.07
 kasetohust	ka-se_to-hust	0.47
-kasetriibik	ka-se_trii-bik	0
+kasetriibik	ka-se_trii-bik	NA
 kasetüve	ka-se_tü-ve	0.07
 käsi	kä-si	1
 käsib	kä-sib	6.53
@@ -13195,8 +13195,8 @@ keeleliselt	kee-le-li-selt	0.2
 keelena	kee-le-na	1.47
 keelendeid	kee-len-deid	1.4
 keeleõpetaja	kee-le_õ-pe-ta-ja	0.07
-keeleõppija	kee-le_õp-pi-ja	0
-keeleõppijate	kee-le_õp-pi-ja-te	0
+keeleõppija	kee-le_õp-pi-ja	NA
+keeleõppijate	kee-le_õp-pi-ja-te	NA
 keeleoskajate	kee-le_os-ka-ja-te	0.07
 keeleoskus	kee-le_os-kus	1.47
 keeleoskuse	kee-le_os-ku-se	3
@@ -14388,7 +14388,7 @@ kirjastusse	kir-jas-tus-se	0.6
 kirjastust	kir-jas-tust	0.67
 kirjastuste	kir-jas-tus-te	1.87
 kirjastustel	kir-jas-tus-tel	0.13
-kirjasüsteemi	kir-ja_süs-tee-mi	0
+kirjasüsteemi	kir-ja_süs-tee-mi	NA
 kirjata	kir-ja-ta	0.13
 kirjatehniline	kir-ja_teh-ni-li-ne	0.07
 kirjatöö	kir-ja_töö	1.73
@@ -16080,7 +16080,7 @@ kõnetuvastuse	kõ-ne_tu-vas-tu-se	0.67
 kõneühenduse	kõ-ne_ü-hen-du-se	0.2
 kõneviis	kõ-ne_viis	1.33
 kõneviisi	kõ-ne_vii-si	0.07
-kõneviisiga	kõ-ne_vii-si-ga	0
+kõneviisiga	kõ-ne_vii-si-ga	NA
 kõneviisil	kõ-ne_vii-sil	0.13
 kõneviisis	kõ-ne_vii-sis	1.2
 konfiskeeri	kon-fis-kee-ri	0.07
@@ -16867,7 +16867,7 @@ korpused	kor-pu-sed	0.93
 korpusega	kor-pu-se-ga	0.4
 korpuses	kor-pu-ses	12.07
 korpusest	kor-pu-sest	2.27
-korpustaru	kor-pus_ta-ru	0
+korpustaru	kor-pus_ta-ru	NA
 korra	kor-ra	0.13
 korraarmastus	kor-ra_ar-mas-tus	0.33
 korrad	kor-rad	6.33
@@ -18351,7 +18351,7 @@ kurnavat	kur-na-vat	0.47
 kurradi	kur-ra-di	0.2
 kursaõde	kur-sa_õ-de	0.13
 kursi	kur-si	5.53
-kursiivne	kur-siiv-ne	0
+kursiivne	kur-siiv-ne	NA
 kursil	kur-sil	1.33
 kursis	kur-sis	18
 kursist	kur-sist	0.47
@@ -20014,8 +20014,8 @@ laulik	lau-lik	2.47
 laulis	lau-lis	20.33
 laulja	laul-ja	4.93
 lauljad	laul-jad	5.33
-lauljaformandi	laul-ja_for-man-di	0
-lauljaformant	laul-ja_for-mant	0
+lauljaformandi	laul-ja_for-man-di	NA
+lauljaformant	laul-ja_for-mant	NA
 lauljaid	laul-jaid	2.2
 lauljakarjääri	laul-ja_kar-jää-ri	0.2
 lauljanna	laul-jan-na	0.13
@@ -20070,7 +20070,7 @@ laused	lau-sed	0.07
 lausega	lau-se-ga	7
 lauseid	lau-seid	9.93
 lauserõhu	lau-se_rõ-hu	0.27
-lauserõhuta	lau-se_rõ-hu-ta	0
+lauserõhuta	lau-se_rõ-hu-ta	NA
 lauses	lau-ses	0.27
 lausest	lau-sest	4
 lausestust	lau-ses-tust	0.07
@@ -20294,7 +20294,7 @@ leitnant	leit-nant	0.07
 leitset	leit-set	0.13
 leitu	lei-tu	0.4
 leitud	lei-tud	0.07
-leiulaine	lei-u_lai-ne	0
+leiulaine	lei-u_lai-ne	NA
 leiutaja	lei-u-ta-ja	0.87
 leiutajad	lei-u-ta-jad	0.47
 leiutajatele	lei-u-ta-ja-te-le	0.07
@@ -21177,7 +21177,7 @@ lisapitsi	li-sa_pit-si	0.07
 lisaraha	li-sa_ra-ha	2
 lisas	li-sas	0.07
 lisasid	li-sa-sid	3.67
-lisasilbid	li-sa_sil-bid	0
+lisasilbid	li-sa_sil-bid	NA
 lisasissetulek	li-sa_sis-se_tu-lek	0.13
 lisasissetulekut	li-sa_sis-se_tu-le-kut	0.4
 lisatakse	li-sa-tak-se	13.8
@@ -22074,11 +22074,11 @@ lugemisel	lu-ge-mi-sel	5.2
 lugemisest	lu-ge-mi-sest	2.33
 lugemisoskus	lu-ge-mis_os-kus	1.27
 lugemisoskuse	lu-ge-mis_os-ku-se	0.8
-lugemisrada	lu-ge-mis_ra-da	0
+lugemisrada	lu-ge-mis_ra-da	NA
 lugemissaal	lu-ge-mis_saal	0.4
 lugemissaalides	lu-ge-mis_saa-li-des	0.13
 lugemissaalis	lu-ge-mis_saa-lis	0.53
-lugemisstrateegiad	lu-ge-mis_stra-tee-gi-ad	0
+lugemisstrateegiad	lu-ge-mis_stra-tee-gi-ad	NA
 lugemist	lu-ge-mist	7.33
 lugend	lu-gend	0.53
 lugenud	lu-ge-nud	0.87
@@ -22543,7 +22543,7 @@ määratleb	mää-rat-leb	8.87
 määratleda	mää-rat-le-da	21.8
 määratledes	mää-rat-le-des	1.6
 määratles	mää-rat-les	2.4
-määratlete	mää-rat-le-te	0
+määratlete	mää-rat-le-te	NA
 määratleti	mää-rat-le-ti	2.07
 määratletud	mää-rat-le-tud	10.6
 määratu	mää-ra-tu	1.2
@@ -24208,7 +24208,7 @@ mesallianssi	mes_al-li-ans-si	0.07
 mesasja	me-sas-ja	0.07
 mesijat	me-si-jat	0.07
 mesikäpp	me-si_käpp	0.33
-mesila	me-si-la	0
+mesila	me-si-la	NA
 mesilane	me-si-la-ne	1.2
 mesilased	me-si-la-sed	6.73
 mesilasi	me-si-la-si	2.4
@@ -24238,7 +24238,7 @@ metallist	me-tal-list	4.8
 metallkarpi	me-tall_kar-pi	0.07
 metallraamis	me-tall_raa-mis	0.07
 metamorfoose	me-ta-mor-foo-se	0.2
-metatees	me-ta-tees	0
+metatees	me-ta-tees	NA
 meteoroloog	me-te-o-ro-loog	0.8
 meteoroloogia	me-te-o-ro-loo-gi-a	2.2
 meteoroloogiakeskuse	me-te-o-ro-loo-gi-a_kes-ku-se	0.4
@@ -24601,7 +24601,7 @@ minul	mi-nul	61.07
 minule	mi-nu-le	33.4
 minulgi	mi-nul-gi	5.2
 minult	mi-nult	21.67
-minumeelest	mi-nu-mee-lest	0
+minumeelest	mi-nu-mee-lest	NA
 minuni	mi-nu-ni	6.2
 minus	mi-nus	28.4
 minuski	mi-nus-ki	0.33
@@ -25613,9 +25613,9 @@ murd	murd	2.13
 murda	mur-da	12.73
 murde	mur-de	0.47
 murdeatlase	mur-de_at-la-se	0.07
-murdekorpuse	mur-de_kor-pu-se	0
+murdekorpuse	mur-de_kor-pu-se	NA
 murdepalle	mur-de_pal-le	0.2
-murdepraktika	mur-de_prak-ti-ka	0
+murdepraktika	mur-de_prak-ti-ka	NA
 murdepunkt	mur-de_punkt	0.93
 murdes	mur-des	0.73
 murdis	mur-dis	14.67
@@ -27072,15 +27072,15 @@ nisukse	ni-suk-se	0.07
 nisust	ni-sust	0.93
 niudeluult	niu-de_luult	0.07
 niuete	niu-e-te	0.33
-niuke	niu-ke	0
-niukene	niu-ke-ne	0
-niukest	niu-kest	0
-niukse	niuk-se	0
+niuke	niu-ke	NA
+niukene	niu-ke-ne	NA
+niukest	niu-kest	NA
+niukse	niuk-se	NA
 niuksed	niuk-sed	0.07
 niukseid	niuk-seid	0.07
 niutsub	niut-sub	0.27
 nja	nja	0.07
-njaa	njaa	0
+njaa	njaa	NA
 njah	njah	0.07
 noa	noa	10.27
 noad	noad	1.73
@@ -27128,7 +27128,7 @@ nõidadega	nõi-da-de-ga	0.2
 nõiduda	nõi-du-da	1.2
 nõiduslik	nõi-dus-lik	0.07
 noist	noist	1.73
-noja	no-ja	0
+noja	no-ja	NA
 nõjale	nõ-ja-le	0.13
 nõjatub	nõ-ja-tub	0.93
 nõjatuda	nõ-ja-tu-da	0.2
@@ -27523,7 +27523,7 @@ novembrist	no-vemb-rist	6.87
 novembrit	no-vemb-rit	1
 novo	no-vo	0.8
 novosibirski	no-vo-si-birs-ki	0.07
-novot	no-vot	0
+novot	no-vot	NA
 nüanss	nü-anss	1.2
 nüansse	nü-ans-se	3.27
 nüd	nüd	0.07
@@ -28143,7 +28143,7 @@ oksjonil	oks-jo-nil	3.87
 okste	oks-te	4.07
 okstega	oks-te-ga	0.73
 okstest	oks-test	1.07
-oktav	ok-tav	0
+oktav	ok-tav	NA
 oktoober	ok-too-ber	20.27
 oktoobri	ok-toob-ri	15.93
 oktoobriks	ok-toob-riks	2.6
@@ -28791,7 +28791,7 @@ ooteruumis	oo-te_ruu-mis	0.73
 ootevalmis	oo-te_val-mis	0.2
 ootma	oot-ma	0.07
 öötöö	öö_töö	0.13
-ootoot	oo-toot	0
+ootoot	oo-toot	NA
 õõtsumine	õõt-su-mi-ne	0.47
 õõtsumist	õõt-su-mist	0.07
 õõtsus	õõt-sus	0.27
@@ -28968,7 +28968,7 @@ opositsioonis	o-po-sit-si-oo-nis	2.93
 õppida	õp-pi-da	63.67
 õppides	õp-pi-des	4.53
 õppige	õp-pi-ge	1.4
-õppijakeele	õp-pi-ja_kee-le	0
+õppijakeele	õp-pi-ja_kee-le	NA
 õppima	õp-pi-ma	42.73
 õppimas	õp-pi-mas	0.07
 õppimine	õp-pi-mi-ne	23
@@ -30866,7 +30866,7 @@ pealae	pea_lae	1
 pealaeni	pea_lae-ni	0.13
 pealaest	pea_laest	2.13
 pealause	pea_lau-se	0.2
-pealausega	pea_lau-se-ga	0
+pealausega	pea_lau-se-ga	NA
 peale	pea-le	22.93
 pealegi	pea-le-gi	122.07
 pealekauba	pea-le_kau-ba	3.87
@@ -31258,7 +31258,7 @@ peppu	pep-pu	0.07
 pepu	pe-pu	0.33
 pepule	pe-pu-le	0.13
 per	per	2.4
-pera	pe-ra	0
+pera	pe-ra	NA
 perast	pe-rast	1.13
 perastpoole	pe-rast-poo-le	0.07
 pere	pe-re	44.6
@@ -32538,7 +32538,7 @@ põhjuseks	põh-ju-seks	0.4
 põhjusel	põh-ju-sel	0.07
 põhjuseta	põh-ju-se-ta	6.73
 põhjusi	põh-ju-si	0.07
-põhjuslause	põh-jus_lau-se	0
+põhjuslause	põh-jus_lau-se	NA
 põhjust	põh-just	88.8
 põhjustab	põh-jus-tab	38.53
 põhjustada	põh-jus-ta-da	26.8
@@ -33033,7 +33033,7 @@ pööravad	pöö-ra-vad	4.27
 pööraval	pöö-ra-val	0.07
 pöörde	pöör-de	6.2
 pöördeid	pöör-deid	2.07
-pöördekategooria	pöör-de_ka-te-goo-ri-a	0
+pöördekategooria	pöör-de_ka-te-goo-ri-a	NA
 pöördellipsoid	pöör-del-lip-soid	0.07
 pöördes	pöör-des	1.27
 pöördesse	pöör-des-se	0.07
@@ -33780,7 +33780,7 @@ pseudonüümi	pseu-do-nüü-mi	0.53
 psühhiaater	psüh-hi-aa-ter	3.27
 psühhoanalüüsi	psüh-ho_a-na-lüü-si	0.07
 psühhoanalüütilisele	psüh-ho_a-na-lüü-ti-li-se-le	0.07
-psühholingvistiline	psüh-ho_ling-vis-ti-li-ne	0
+psühholingvistiline	psüh-ho_ling-vis-ti-li-ne	NA
 psühholoog	psüh-ho-loog	11.73
 psühholoogi	psüh-ho-loo-gi	0.07
 psühholoogia	psüh-ho-loo-gi-a	5.67
@@ -33862,7 +33862,7 @@ pühajärvel	pü-ha_jär-vel	0.07
 puhake	pu-ha-ke	0.53
 pühaks	pü-haks	2.2
 pühakuks	pü-ha-kuks	1.2
-pühalaulu	pü-ha_lau-lu	0
+pühalaulu	pü-ha_lau-lu	NA
 pühalik	pü-ha-lik	1.07
 pühalike	pü-ha-li-ke	0.2
 pühamuid	pü-ha-muid	0.13
@@ -34160,7 +34160,7 @@ punktiga	punk-ti-ga	24.6
 punktiirsed	punk-tiir-sed	0.07
 punktina	punk-ti-na	1.33
 punktini	punk-ti-ni	4.2
-punktipausid	punk-ti_pau-sid	0
+punktipausid	punk-ti_pau-sid	NA
 punktipealt	punk-ti_pealt	0.73
 punktis	punk-tis	15.93
 punktist	punk-tist	7.53
@@ -36209,7 +36209,7 @@ riskimine	ris-ki-mi-ne	0.4
 riskind	risk_ind	0.07
 riskinud	ris-ki-nud	0.2
 riskitegur	ris-ki_te-gur	3.33
-risoto	ri-so-to	0
+risoto	ri-so-to	NA
 rist	rist	6.33
 ristamise	ris-ta-mi-se	1.33
 ristandite	ris-tan-di-te	1.47
@@ -37513,7 +37513,7 @@ sarnaseks	sar-na-seks	7
 sarnaselt	sar-na-selt	0.27
 sarnast	sar-nast	15.73
 sarnastest	sar-nas-test	1.93
-sarnastumine	sar-nas-tu-mi-ne	0
+sarnastumine	sar-nas-tu-mi-ne	NA
 sarnasus	sar-na-sus	10.4
 sarnasust	sar-na-sust	8.93
 sars	sars	0.47
@@ -38999,7 +38999,7 @@ sisuliste	si-su-lis-te	1.8
 sisult	si-sult	8.8
 sisus	si-sus	1.33
 sisustamiseks	si-sus-ta-mi-seks	1.73
-sisutasandi	si-su_ta-san-di	0
+sisutasandi	si-su_ta-san-di	NA
 sisutut	si-su-tut	0.13
 sit	sit	0.2
 sita	si-ta	0.2
@@ -39039,7 +39039,7 @@ situn	si-tun	0.33
 siugjas	siug-jas	0.27
 siugles	siug-les	0.53
 siuke	siu-ke	3.07
-siukene	siu-ke-ne	0
+siukene	siu-ke-ne	NA
 siukese	siu-ke-se	0.07
 siukest	siu-kest	0.53
 siukse	siuk-se	0.53
@@ -39081,7 +39081,7 @@ slaalomi	slaa-lo-mi	0.33
 slaalomietapp	slaa-lo-mi_e-tapp	0.07
 slaavi	slaa-vi	6.4
 slaidi	slai-di	0.47
-slaidil	slai-dil	0
+slaidil	slai-dil	NA
 släng	släng	0.73
 sleep	sleep	0.33
 slle	slle	0.13
@@ -39682,7 +39682,7 @@ soolasiiga	soo-la_sii-ga	0.07
 soolast	soo-last	0.13
 soolatakse	soo-la-tak-se	0.13
 soolaterad	soo-la_te-rad	0.2
-soolatopsike	soo-la_top-si-ke	0
+soolatopsike	soo-la_top-si-ke	NA
 sooline	soo-li-ne	3.27
 soolised	soo-li-sed	1.53
 soolist	soo-list	1.13
@@ -40254,7 +40254,7 @@ subjektidena	sub-jek-ti-de-na	0.2
 subjektiivne	sub-jek-tiiv-ne	12.53
 subjektiivse	sub-jek-tiiv-se	10.33
 subjektiivsus	sub-jek-tiiv-sus	0.67
-subjektisikuid	sub-jekt_i-si-kuid	0
+subjektisikuid	sub-jekt_i-si-kuid	NA
 subsideerimise	sub-si-dee-ri-mi-se	0.47
 süda	sü-da	0.07
 südalinna	sü-da_lin-na	0.47
@@ -40556,7 +40556,7 @@ suleta	su-le-ta	0.53
 suletakse	su-le-tak-se	4.73
 suletud	su-le-tud	3.27
 suletusega	su-le-tu-se-ga	0.2
-suletusekvotsient	su-le-tu-sek-vot-si-ent	0
+suletusekvotsient	su-le-tu-sek-vot-si-ent	NA
 sulg	sulg	4.2
 sülg	sülg	3.4
 sulge	sul-ge	0.33
@@ -42521,8 +42521,8 @@ täringutabamuste	tä-rin-gu_ta-ba-mus-te	0.07
 täringutega	tä-rin-gu-te-ga	0.27
 taris	ta-ris	0.53
 täristas	tä-ris-tas	0.33
-Taritu	ta-ri-tu	0
-Taritus	ta-ri-tus	0
+Taritu	ta-ri-tu	NA
+Taritus	ta-ri-tus	NA
 tark	tark	27.8
 tarka	tar-ka	0.07
 tärkab	tär-kab	1.33
@@ -42558,9 +42558,9 @@ tartumees	tar-tu-mees	0.07
 tartusse	tar-tus-se	0.07
 taru	ta-ru	0.33
 tarud	ta-rud	0.13
-taruga	ta-ru-ga	0
+taruga	ta-ru-ga	NA
 tarus	ta-rus	0.13
-tarusse	ta-rus-se	0
+tarusse	ta-rus-se	NA
 taruvaik	ta-ru_vaik	0.13
 tarvastu	tar-vas-tu	1.27
 tarvet	tar-vet	1
@@ -43256,7 +43256,7 @@ tehnikaekspert	teh-ni-ka_eks-pert	0.13
 tehnikaga	teh-ni-ka-ga	3.47
 tehnikat	teh-ni-kat	9.87
 tehnikaülikooli	teh-ni-ka_ü-li_koo-li	0.07
-Tehnikaülikooli	teh-ni-ka_ü-li_koo-li	0
+Tehnikaülikooli	teh-ni-ka_ü-li_koo-li	NA
 tehniline	teh-ni-li-ne	14.6
 tehnilise	teh-ni-li-se	15.67
 tehnilised	teh-ni-li-sed	9.4
@@ -44023,7 +44023,7 @@ tingimuses	tin-gi-mu-ses	0.4
 tingimusi	tin-gi-mu-si	16.93
 tingimuslause	tin-gi-mus_lau-se	0.13
 tingimuslaused	tin-gi-mus_lau-sed	0.07
-tingimuslausetes	tin-gi-mus_lau-se-tes	0
+tingimuslausetes	tin-gi-mus_lau-se-tes	NA
 tingimust	tin-gi-must	3.73
 tingimuste	tin-gi-mus-te	20.4
 tingimustel	tin-gi-mus-tel	17.8
@@ -44467,7 +44467,7 @@ tõket	tõ-ket	0.53
 tõkke	tõk-ke	0.87
 tõkked	tõk-ked	1.13
 tõkkepuu	tõk-ke_puu	0.73
-tõks	tõks	0
+tõks	tõks	NA
 toksiliste	tok-si-lis-te	1.93
 toksilistes	tok-si-lis-tes	0.07
 toksima	tok-si-ma	0.27
@@ -45482,7 +45482,7 @@ trossi	tros-si	0.47
 trotsiks	trot-siks	0.07
 trotslikult	trots-li-kult	1.93
 troublemaker	troub-le-ma-ker	0.07
-TRUE	TRUE	0.6
+true	true	0.6
 trügida	trü-gi-da	2.13
 trügima	trü-gi-ma	0.07
 trügimas	trü-gi-mas	0.13
@@ -47169,7 +47169,7 @@ ule	u-le	0.13
 üleastujaid	ü-le_as-tu-jaid	0.53
 üleasustatud	ü-le_a-sus-ta-tud	0.27
 ülebroneerimise	ü-le_bro-nee-ri-mi-se	0.07
-üleeelmine	ü-le_eel-mi-ne	0
+üleeelmine	ü-le_eel-mi-ne	NA
 üleeila	ü-lee-i-la	0.2
 üleeile	ü-le_ei-le	31.27
 üleelamiseks	ü-le_e-la-mi-seks	0.2
@@ -47229,7 +47229,7 @@ ule	u-le	0.13
 ülemad	ü-le-mad	0.33
 ülemeelikuks	ü-le_mee-li-kuks	0.6
 ülemeelikult	ü-le_mee-li-kult	0.47
-ülemhelid	ü-lem_he-lid	0
+ülemhelid	ü-lem_he-lid	NA
 ülemine	ü-le-mi-ne	5.33
 üleminekuga	ü-le_mi-ne-ku-ga	7.8
 üleminekule	ü-le_mi-ne-ku-le	2.4
@@ -49636,8 +49636,8 @@ vallandamisvestlus	val-lan-da-mis_vest-lus	0.07
 vallandati	val-lan-da-ti	3.67
 vallandatud	val-lan-da-tud	1.8
 vallandatuid	val-lan-da-tuid	0.13
-vallandumisfaasiga	val-lan-du-mis_faa-si-ga	0
-vallandumisfaasita	val-lan-du-mis_faa-si-ta	0
+vallandumisfaasiga	val-lan-du-mis_faa-si-ga	NA
+vallandumisfaasita	val-lan-du-mis_faa-si-ta	NA
 vallanduvad	val-lan-du-vad	0.4
 vallanud	val-la-nud	1
 vallarahvas	val-la_rah-vas	0.33
@@ -51023,7 +51023,7 @@ vigurivänt	vi-gu-ri_vänt	0.07
 vigurvärsse	vi-gur_värs-se	0.07
 viha	vi-ha	3.87
 vihaga	vi-ha-ga	0.07
-vihalausetes	vi-ha_lau-se-tes	0
+vihalausetes	vi-ha_lau-se-tes	NA
 vihameele	vi-ha_mee-le	0.07
 vihane	vi-ha-ne	12.07
 vihapäev	vi-ha_päev	0.07
@@ -52285,9 +52285,10 @@ muudatusettepanek	muu-da-tus_et-te_pa-nek	0.2
 säte	sä-te	6.2
 sõiduk	sõi-duk	7.33
 sportlane	sport-la-ne	6.47
-süüdistus	süü-dis-tus	7.8
+süüdistus	süü-dis-tus	7.80
 tänapäev	tä-na_päev	1.93
 tonn	tonn	1.6
 turniir	tur-niir	3.4
 uurimine	uu-ri-mi-ne	39.67
 valdkond	vald-kond	14.27
+teave	tea-ve	12.27
